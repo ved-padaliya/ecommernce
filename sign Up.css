@@ -1,0 +1,58 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: #f12a3bde;
+  font-family: arial;
+}
+h1 {
+  margin-top: 20;
+}
+.container {
+  width: 400px;
+  height: 500px;
+  padding: 2px 1px;
+  margin: 50px auto;
+  background-color: #fff;
+  border-radius: 10px;
+  text-align: center;
+}
+.password {
+  text-decoration: none;
+  text-align: right;
+  font-size: 10px;
+}
+form input {
+  width: 80%;
+  border: 1px solid #fff;
+  padding: 12px 20px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  background-color: #f5f2f2dc;
+}
+button {
+  font-size: 20px;
+  padding: 10px 0px;
+  border-radius: 20px;
+  border: none;
+  background-color: #bc1144;
+  width: 80%;
+  text-decoration: none;
+  color: black;
+}
+.register {
+  text-decoration: none;
+  color: #bc1144;
+}
+.text-decoration {
+  text-decoration: none;
+  color: #bc1144;
+}
+label {
+  font-size: 13px;
+}
+.text {
+  text-decoration: none;
+  color: black;
+}
